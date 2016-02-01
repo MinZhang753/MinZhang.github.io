@@ -1,2 +1,2 @@
 # MinZhang.github.io
-website
+Min Zhang's personal website
